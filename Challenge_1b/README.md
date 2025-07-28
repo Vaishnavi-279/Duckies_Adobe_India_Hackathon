@@ -91,9 +91,3 @@ pdfminer.six==20221105
 - Executes within 60 seconds
 
 ---
-
-## 📞 Contact
-
-Built by \[Your Name], Duckies Team 🐥
-
-> "Connecting ideas. Reading minds."
