@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends."
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "\u2022",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 2,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing,",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "\u2022",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "\u2022",
+      "importance_rank": 5,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 \nNotebook: Bring a notebook to jot down notes about the wines you taste. \n\u2022 \nWater Bottle: Stay hydrated by drinking water between tastings. \n\u2022 \nAdditional Tips: Plan your wine tour route in advance and consider hiring a driver or \njoining a guided tour to avoid drinking and driving. \n \nTips and Tricks for Packing \n\u2022 \nCheck the Weather: Check the forecast before packing to ensure appropriate clothing. \n\u2022 \nMake a Packing List: Create a list to ensure nothing is forgotten. Cross o\ufb00 items as you ",
+      "page_number": 8
+    }
+  ]
+}
